@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 魔王教授(∞)
 エルマス(18)
 わかば(58)
+おれ(27)
 
 # ディレクトリ構成
 ```
