@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス(18)
 わかば(58)
 おれ(27)
+おれ2(1)
 
 # ディレクトリ構成
 ```
